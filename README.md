@@ -14,7 +14,7 @@
    ![CRISP-DM Process Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CRISP-DM_Process_Diagram.png/1024px-CRISP-DM_Process_Diagram.png)
 
    Furthermore, We have two primary objectives based on the project goal: improving payment success rates and minimizing transaction fees. The proposed project plan method entails developing two distinct mod-els     to address each of these goals:
-   1) Two-model approach:
+1) Two-model approach:
    
    a) Model 1: Success prediction:
    •	Predicts success probability while focusing primarily on increasing success rates.
@@ -24,7 +24,7 @@
    •	Choosing the best payment service provider (PSP) based on success probabilities and trans-action fees.
    •	Allows for dynamic decision-making by assessing success probabilities and costs.
 
-   3)	Implementation steps:
+2) Implementation steps:
 
    a)	Train Model 1:
    •	Using transaction-related features (excluding fees) with success as the target variable.
@@ -41,7 +41,7 @@
    •	Using success probabilities from Model 1 and Model 2 predictions to determine the best PSP.
    •	Leverage fee comparison features in case of ties.
 
-   3)	Benefits:
+3) Benefits:
 
    a)	Specialization:
    •	Model 1 optimizes success rates.
