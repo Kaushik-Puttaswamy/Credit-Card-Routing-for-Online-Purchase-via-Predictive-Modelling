@@ -8,7 +8,12 @@
    Help the business to automate the credit card routing via a predictive model. Such a model should increase the payment success rate by finding the best possible PSP for each transaction and at the same time       keep the transaction fees low.
 
 # Project Plan:
-   We have two primary objectives based on the project goal: improving payment success rates and minimizing transaction fees. The proposed project plan method entails developing two distinct mod-els to address       each of these goals:
+   The approach adopted for the credit card routing for online purchase via predictive modelling use  case is CRISP-DM, a comprehensive data mining process model with six phases: business understanding, data         understanding, data preparation, modelling, evaluation, and deployment. This framework provides a formal plan for the whole project life cycle, guiding both novices and specialists alike. The cyclical       
+   structure of CRISP-DM recognizes the iterative process of data mining, with lessons learned during the project and from the deployed solution driving new, typically more focused business concerns. 
+
+   ![CRISP-DM Process Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CRISP-DM_Process_Diagram.png/1024px-CRISP-DM_Process_Diagram.png)
+
+   Furthermore, We have two primary objectives based on the project goal: improving payment success rates and minimizing transaction fees. The proposed project plan method entails developing two distinct mod-els     to address each of these goals:
    1) Two-model approach:
    
    a) Model 1: Success prediction:
