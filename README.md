@@ -138,4 +138,4 @@ This project successfully demonstrates how machine learning can optimize credit 
 
 📈 Fine-tune cost-benefit analysis for PSP selection.
 
-#### 🔗 Developed by: Kaushik Puttaswamy – Case Study: Model Engineering
+#### 🔗 Developed by: [Kaushik Puttaswamy](https://www.linkedin.com/in/kaushik-puttaswamy-data-analyst/) – Case Study: Model Engineering
