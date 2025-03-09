@@ -14,7 +14,7 @@ In the fast-paced world of online retail, efficient credit card transaction proc
 
 The project follows the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework to ensure a structured and effective approach.
 
-![CRISP-DM Reference Model.png](https://github.com/Kaushik-Puttaswamy/Credit-Card-Routing-for-Online-Purchase-via-Predictive-Modelling/blob/main/CRISP-DM%20Reference%20Model.png)
+![CRISP-DM Reference Model.png](https://github.com/Kaushik-Puttaswamy/Credit-Card-Routing-for-Online-Purchase-via-Predictive-Modelling/blob/dev/Images/CRISP-DM%20Reference%20Model.png)
 
 ## 🛠️ Project Structure
 
@@ -83,7 +83,7 @@ The dataset includes:
 
 ### 📊 Correlation Analysis:
 
-![Correlation analysis.png](https://github.com/Kaushik-Puttaswamy/Credit-Card-Routing-for-Online-Purchase-via-Predictive-Modelling/blob/main/Correlation%20analysis.png)
+![Correlation analysis.png](https://github.com/Kaushik-Puttaswamy/Credit-Card-Routing-for-Online-Purchase-via-Predictive-Modelling/blob/dev/Images/Correlation%20analysis.png)
 
 ## ⚙️ Modeling & Feature Importance
 
@@ -99,22 +99,22 @@ The models were trained using multiple ML techniques:
 
 **📌 Feature Importance for Model 1 (Random Forest Classification) :**
 
-![Features Importance in Model 1.png](https://github.com/Kaushik-Puttaswamy/Credit-Card-Routing-for-Online-Purchase-via-Predictive-Modelling/blob/main/Features%20Importance%20in%20Model%201.png)
+![Features Importance in Model 1.png](https://github.com/Kaushik-Puttaswamy/Credit-Card-Routing-for-Online-Purchase-via-Predictive-Modelling/blob/dev/Images/Features%20Importance%20in%20Model%201.png)
 
 **📌 Feature Importance for Model 2 (Random Forest Classification):**
 
-![Features Importance in Model 2.png](https://github.com/Kaushik-Puttaswamy/Credit-Card-Routing-for-Online-Purchase-via-Predictive-Modelling/blob/main/Features%20Importance%20in%20Model%202.png)
+![Features Importance in Model 2.png](https://github.com/Kaushik-Puttaswamy/Credit-Card-Routing-for-Online-Purchase-via-Predictive-Modelling/blob/dev/Images/Features%20Importance%20in%20Model%202.png)
 
 
 ## 📊 Model Performance
 
 **📌 Performance of Model 1 (Random Forest Classification):**
 
-![Model 1 performance output.png](https://github.com/Kaushik-Puttaswamy/Credit-Card-Routing-for-Online-Purchase-via-Predictive-Modelling/blob/main/Model%201%20performance%20output.png)
+![Model 1 performance output.png](https://github.com/Kaushik-Puttaswamy/Credit-Card-Routing-for-Online-Purchase-via-Predictive-Modelling/blob/dev/Images/Model%201%20performance%20output.png)
 
 **📌 Performance of Model 2 (Random Forest Classification):**
 
-![Model 2 performance output .png](https://github.com/Kaushik-Puttaswamy/Credit-Card-Routing-for-Online-Purchase-via-Predictive-Modelling/blob/main/Model%202%20performance%20output%20.png)
+![Model 2 performance output .png](https://github.com/Kaushik-Puttaswamy/Credit-Card-Routing-for-Online-Purchase-via-Predictive-Modelling/blob/dev/Images/Model%202%20performance%20output%20.png)
 
 ## 🚀 Deployment & Business Impact
 
